@@ -36,3 +36,4 @@ for i in range(0, len(q)):
         if()
     else:
         print("Wrong Answer")
+        print("welcome")
